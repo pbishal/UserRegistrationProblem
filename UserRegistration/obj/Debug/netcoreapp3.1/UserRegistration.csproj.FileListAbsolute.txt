@@ -1,0 +1,13 @@
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.exe
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.deps.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.dev.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfo.cs
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\UserRegistration\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.genruntimeconfig.cache
