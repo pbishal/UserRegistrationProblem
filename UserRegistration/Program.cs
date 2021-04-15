@@ -8,11 +8,8 @@ namespace UserRegistration
         static void Main(string[] args)
         {
             Patterns patterns = new Patterns();
-
-            Console.WriteLine(patterns.ValidateFirstName("Bishal"));
             Console.WriteLine("enter the first name:");
-            //string firstname = Console.ReadLine();
-
+            Console.WriteLine(patterns.ValidateFirstName(Console.ReadLine()));        
         }
     }
 }
