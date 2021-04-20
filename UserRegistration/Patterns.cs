@@ -10,7 +10,7 @@ namespace UserRegistration
         public static string REGEX_FIRSTNAME= "^[A-Z][a-z]{3,}$";
         public static string REGEX_LASTNAME= "^[A-Z][a-z]{3,}$";
         public static string REGEX_MOBILENUMBER = "^[0-9]{2}[ ][0-9]{10}$";
-        public static string REGEX_EMAIL = @"^[a-z]{3,}\.[a-z0-9]{2,}\@[a-z]{2,}\.[a-z]{2}\.[a-z]{2}";
+        public static string REGEX_EMAIL = @"^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$";
         public static string REGEX_PASSWORD = "^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$";
     public bool ValidateFirstName(string firstName)
         {
